@@ -1,0 +1,13 @@
+C:\Users\Jose\Source\Repos\TeamMusclesAndMachine\TeamMusclesAndMachine\bin\Release\TeamMusclesAndMachine.exe.config
+C:\Users\Jose\Source\Repos\TeamMusclesAndMachine\TeamMusclesAndMachine\bin\Release\TeamMusclesAndMachine.exe
+C:\Users\Jose\Source\Repos\TeamMusclesAndMachine\TeamMusclesAndMachine\bin\Release\TeamMusclesAndMachine.pdb
+C:\Users\Jose\Source\Repos\TeamMusclesAndMachine\TeamMusclesAndMachine\bin\Release\CMO.dll
+C:\Users\Jose\Source\Repos\TeamMusclesAndMachine\TeamMusclesAndMachine\obj\Release\TeamMusclesAndMachine.csprojAssemblyReference.cache
+C:\Users\Jose\Source\Repos\TeamMusclesAndMachine\TeamMusclesAndMachine\obj\Release\TeamMusclesAndMachine.MainMenu.resources
+C:\Users\Jose\Source\Repos\TeamMusclesAndMachine\TeamMusclesAndMachine\obj\Release\TeamMusclesAndMachine.Properties.Resources.resources
+C:\Users\Jose\Source\Repos\TeamMusclesAndMachine\TeamMusclesAndMachine\obj\Release\TeamMusclesAndMachine.UserControl_MoveMotor.resources
+C:\Users\Jose\Source\Repos\TeamMusclesAndMachine\TeamMusclesAndMachine\obj\Release\TeamMusclesAndMachine.csproj.GenerateResource.cache
+C:\Users\Jose\Source\Repos\TeamMusclesAndMachine\TeamMusclesAndMachine\obj\Release\TeamMusclesAndMachine.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Source\Repos\TeamMusclesAndMachine\TeamMusclesAndMachine\obj\Release\TeamMusclesAndMachine.csproj.CopyComplete
+C:\Users\Jose\Source\Repos\TeamMusclesAndMachine\TeamMusclesAndMachine\obj\Release\TeamMusclesAndMachine.exe
+C:\Users\Jose\Source\Repos\TeamMusclesAndMachine\TeamMusclesAndMachine\obj\Release\TeamMusclesAndMachine.pdb

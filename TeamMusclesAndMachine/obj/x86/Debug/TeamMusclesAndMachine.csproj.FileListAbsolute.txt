@@ -1,0 +1,165 @@
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.activity_main.resources
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.calendar_view.resources
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.choose_workout_screen.resources
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.enter_name_screen.resources
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.history_screen.resources
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.main_menu.resources
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.okmsg_box.resources
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.Properties.Resources.resources
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.settings_screen.resources
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.UserControl1.resources
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.user_screen.resources
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.workout_screen.resources
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.csproj.GenerateResource.cache
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\Resources\AunchantedBoldOblique.ttf
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\Resources\AunchantedOblique.ttf
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\Resources\BebasNeue-Regular.ttf
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\Resources\MATHOI__.TTF
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\TeamMusclesAndMachine.exe.config
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\TeamMusclesAndMachine.exe.manifest
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\TeamMusclesAndMachine.application
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\TeamMusclesAndMachine.exe
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\TeamMusclesAndMachine.pdb
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\CMO.dll
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\MaterialSkin.dll
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.exe.manifest
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.application
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.csproj.CopyComplete
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.exe
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.pdb
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.TestingMachine_Form.resources
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.csprojAssemblyReference.cache
+C:\Users\nimar\Desktop\Updated May GUI\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\Resources\AunchantedBoldOblique.ttf
+C:\Users\nimar\Desktop\Updated May GUI\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\Resources\AunchantedOblique.ttf
+C:\Users\nimar\Desktop\Updated May GUI\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\Resources\BebasNeue-Regular.ttf
+C:\Users\nimar\Desktop\Updated May GUI\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\Resources\MATHOI__.TTF
+C:\Users\nimar\Desktop\Updated May GUI\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\TeamMusclesAndMachine.exe.config
+C:\Users\nimar\Desktop\Updated May GUI\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\TeamMusclesAndMachine.exe.manifest
+C:\Users\nimar\Desktop\Updated May GUI\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\TeamMusclesAndMachine.application
+C:\Users\nimar\Desktop\Updated May GUI\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\TeamMusclesAndMachine.exe
+C:\Users\nimar\Desktop\Updated May GUI\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\TeamMusclesAndMachine.pdb
+C:\Users\nimar\Desktop\Updated May GUI\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\MaterialSkin.dll
+C:\Users\nimar\Desktop\Updated May GUI\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.csprojAssemblyReference.cache
+C:\Users\nimar\Desktop\Updated May GUI\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.activity_main.resources
+C:\Users\nimar\Desktop\Updated May GUI\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.calendar_view.resources
+C:\Users\nimar\Desktop\Updated May GUI\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.choose_workout_screen.resources
+C:\Users\nimar\Desktop\Updated May GUI\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.enter_name_screen.resources
+C:\Users\nimar\Desktop\Updated May GUI\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.history_screen.resources
+C:\Users\nimar\Desktop\Updated May GUI\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.main_menu.resources
+C:\Users\nimar\Desktop\Updated May GUI\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.okmsg_box.resources
+C:\Users\nimar\Desktop\Updated May GUI\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.Properties.Resources.resources
+C:\Users\nimar\Desktop\Updated May GUI\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.settings_screen.resources
+C:\Users\nimar\Desktop\Updated May GUI\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.TestingMachine_Form.resources
+C:\Users\nimar\Desktop\Updated May GUI\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.UserControl1.resources
+C:\Users\nimar\Desktop\Updated May GUI\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.user_screen.resources
+C:\Users\nimar\Desktop\Updated May GUI\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.workout_screen.resources
+C:\Users\nimar\Desktop\Updated May GUI\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.csproj.GenerateResource.cache
+C:\Users\nimar\Desktop\Updated May GUI\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.csproj.CoreCompileInputs.cache
+C:\Users\nimar\Desktop\Updated May GUI\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.exe.manifest
+C:\Users\nimar\Desktop\Updated May GUI\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.application
+C:\Users\nimar\Desktop\Updated May GUI\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.csproj.CopyComplete
+C:\Users\nimar\Desktop\Updated May GUI\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.exe
+C:\Users\nimar\Desktop\Updated May GUI\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.pdb
+C:\Users\nimar\Desktop\Updated May GUI\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.Backdrop.resources
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.Backdrop.resources
+C:\Users\eleven\Desktop\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\Resources\AunchantedBoldOblique.ttf
+C:\Users\eleven\Desktop\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\Resources\AunchantedOblique.ttf
+C:\Users\eleven\Desktop\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\Resources\BebasNeue-Regular.ttf
+C:\Users\eleven\Desktop\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\Resources\MATHOI__.TTF
+C:\Users\eleven\Desktop\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\TeamMusclesAndMachine.exe.config
+C:\Users\eleven\Desktop\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\TeamMusclesAndMachine.exe.manifest
+C:\Users\eleven\Desktop\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\TeamMusclesAndMachine.application
+C:\Users\eleven\Desktop\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\TeamMusclesAndMachine.exe
+C:\Users\eleven\Desktop\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\TeamMusclesAndMachine.pdb
+C:\Users\eleven\Desktop\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\MaterialSkin.dll
+C:\Users\eleven\Desktop\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.csprojAssemblyReference.cache
+C:\Users\eleven\Desktop\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.activity_main.resources
+C:\Users\eleven\Desktop\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.Backdrop.resources
+C:\Users\eleven\Desktop\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.calendar_view.resources
+C:\Users\eleven\Desktop\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.choose_workout_screen.resources
+C:\Users\eleven\Desktop\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.enter_name_screen.resources
+C:\Users\eleven\Desktop\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.history_screen.resources
+C:\Users\eleven\Desktop\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.main_menu.resources
+C:\Users\eleven\Desktop\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.okmsg_box.resources
+C:\Users\eleven\Desktop\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.Properties.Resources.resources
+C:\Users\eleven\Desktop\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.settings_screen.resources
+C:\Users\eleven\Desktop\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.TestingMachine_Form.resources
+C:\Users\eleven\Desktop\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.UserControl1.resources
+C:\Users\eleven\Desktop\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.user_screen.resources
+C:\Users\eleven\Desktop\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.workout_screen.resources
+C:\Users\eleven\Desktop\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.csproj.GenerateResource.cache
+C:\Users\eleven\Desktop\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.csproj.CoreCompileInputs.cache
+C:\Users\eleven\Desktop\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.exe.manifest
+C:\Users\eleven\Desktop\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.application
+C:\Users\eleven\Desktop\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.csproj.CopyComplete
+C:\Users\eleven\Desktop\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.exe
+C:\Users\eleven\Desktop\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.pdb
+C:\Users\eleven\Desktop\may_windows_gui-master\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.syntaxmsg_box.resources
+C:\Users\eleven\Desktop\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\Resources\AunchantedBoldOblique.ttf
+C:\Users\eleven\Desktop\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\Resources\AunchantedOblique.ttf
+C:\Users\eleven\Desktop\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\Resources\BebasNeue-Regular.ttf
+C:\Users\eleven\Desktop\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\Resources\MATHOI__.TTF
+C:\Users\eleven\Desktop\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\TeamMusclesAndMachine.exe.config
+C:\Users\eleven\Desktop\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\TeamMusclesAndMachine.exe.manifest
+C:\Users\eleven\Desktop\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\TeamMusclesAndMachine.application
+C:\Users\eleven\Desktop\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\TeamMusclesAndMachine.exe
+C:\Users\eleven\Desktop\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\TeamMusclesAndMachine.pdb
+C:\Users\eleven\Desktop\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\MaterialSkin.dll
+C:\Users\eleven\Desktop\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.csprojAssemblyReference.cache
+C:\Users\eleven\Desktop\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.activity_main.resources
+C:\Users\eleven\Desktop\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.Backdrop.resources
+C:\Users\eleven\Desktop\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.calendar_view.resources
+C:\Users\eleven\Desktop\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.choose_workout_screen.resources
+C:\Users\eleven\Desktop\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.enter_name_screen.resources
+C:\Users\eleven\Desktop\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.history_screen.resources
+C:\Users\eleven\Desktop\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.main_menu.resources
+C:\Users\eleven\Desktop\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.okmsg_box.resources
+C:\Users\eleven\Desktop\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.Properties.Resources.resources
+C:\Users\eleven\Desktop\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.settings_screen.resources
+C:\Users\eleven\Desktop\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.syntaxmsg_box.resources
+C:\Users\eleven\Desktop\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.TestingMachine_Form.resources
+C:\Users\eleven\Desktop\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.UserControl1.resources
+C:\Users\eleven\Desktop\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.user_screen.resources
+C:\Users\eleven\Desktop\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.workout_screen.resources
+C:\Users\eleven\Desktop\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.csproj.GenerateResource.cache
+C:\Users\eleven\Desktop\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.csproj.CoreCompileInputs.cache
+C:\Users\eleven\Desktop\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.exe.manifest
+C:\Users\eleven\Desktop\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.application
+C:\Users\eleven\Desktop\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.csproj.CopyComplete
+C:\Users\eleven\Desktop\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.exe
+C:\Users\eleven\Desktop\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.pdb
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\Resources\AunchantedBoldOblique.ttf
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\Resources\AunchantedOblique.ttf
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\Resources\BebasNeue-Regular.ttf
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\Resources\MATHOI__.TTF
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\TeamMusclesAndMachine.exe.config
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\TeamMusclesAndMachine.exe.manifest
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\TeamMusclesAndMachine.application
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\TeamMusclesAndMachine.exe
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\TeamMusclesAndMachine.pdb
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\CMO.dll
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\bin\x86\Debug\MaterialSkin.dll
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.csprojAssemblyReference.cache
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.activity_main.resources
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.Backdrop.resources
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.calendar_view.resources
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.choose_workout_screen.resources
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.enter_name_screen.resources
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.history_screen.resources
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.main_menu.resources
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.okmsg_box.resources
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.Properties.Resources.resources
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.settings_screen.resources
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.syntaxmsg_box.resources
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.TestingMachine_Form.resources
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.UserControl1.resources
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.user_screen.resources
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.workout_screen.resources
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.csproj.GenerateResource.cache
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.exe.manifest
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.application
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.csproj.CopyComplete
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.exe
+C:\Users\Jose\Documents\UTA\2018\Summer\Senior Design\Application\TeamMusclesAndMachine_Ver_1_0_0\TeamMusclesAndMachine\obj\x86\Debug\TeamMusclesAndMachine.pdb
